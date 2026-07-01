@@ -7,13 +7,13 @@
 ## 📸 لقطات من الداشبورد
 
 ### 1️⃣ نظرة عامة (Overview)
-![Overview](screenshots/overview.png)
+![Overview](overview.png)
 
 ### 2️⃣ تحليل المخاطر (Risk Analysis)
-![Risk Analysis](screenshots/risk_analysis.png)
+![Risk Analysis](risk_analysis.png)
 
 ### 3️⃣ التحليل الديموغرافي (Demographics)
-![Demographics](screenshots/demographics.png)
+![Demographics](demographics.png)
 
 ---
 
